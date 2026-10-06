@@ -1,0 +1,1 @@
+h2 e h3 funciona em sequencia, e não faria sentido trocar essa sequencio pois o h3 lê o subtema que o h2 mostra.
