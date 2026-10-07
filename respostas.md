@@ -1,0 +1,1 @@
+h2 e h3 funciona em sequencia, e não faria sentido trocar essa sequencia, pois a função do h3 é ler o subtema do h2. o h3 é filho do titulo.
